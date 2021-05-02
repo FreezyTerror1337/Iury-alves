@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1607108803 source:c:\users\alexa\onedrive\Área de trabalho\alogritmo 8\ex8.c
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1607109028 c:\users\alexa\onedrive\Área de trabalho\alogritmo 8\header.h
+
+1607108867 source:c:\users\alexa\onedrive\Área de trabalho\alogritmo 8\main.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<string.h>
+	"header.h"
+

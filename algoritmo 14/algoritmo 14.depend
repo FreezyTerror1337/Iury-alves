@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1607106789 source:c:\users\alexa\onedrive\Área de trabalho\algoritmo 14\aloritmo.c
+	<stdio.h>
+	<time.h>
+	"teste.h"
+
+1607106789 c:\users\alexa\onedrive\Área de trabalho\algoritmo 14\teste.h
+
+1607106799 source:c:\users\alexa\onedrive\Área de trabalho\algoritmo 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"teste.h"
+	<time.h>
+
